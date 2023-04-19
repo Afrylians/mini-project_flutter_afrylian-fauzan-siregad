@@ -1,1 +1,1 @@
-# mini-project_flutter_afrylian-fauzan-siregad
+# mini-project_flutter_afrylian-fauzan-siregar
